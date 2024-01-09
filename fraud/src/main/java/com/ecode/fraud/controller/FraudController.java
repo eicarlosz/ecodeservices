@@ -1,7 +1,7 @@
-package com.ecode.controller;
+package com.ecode.fraud.controller;
 
-import com.ecode.response.FraudCheckResponse;
-import com.ecode.service.FraudCheckService;
+import com.ecode.fraud.response.FraudCheckResponse;
+import com.ecode.fraud.service.FraudCheckService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;

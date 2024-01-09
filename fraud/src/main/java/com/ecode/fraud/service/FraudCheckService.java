@@ -1,7 +1,7 @@
-package com.ecode.service;
+package com.ecode.fraud.service;
 
-import com.ecode.history.FraudCheckHistory;
-import com.ecode.history.FraudCheckHistoryRepository;
+import com.ecode.fraud.history.FraudCheckHistory;
+import com.ecode.fraud.history.FraudCheckHistoryRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

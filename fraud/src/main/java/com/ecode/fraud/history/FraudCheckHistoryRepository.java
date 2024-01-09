@@ -1,4 +1,4 @@
-package com.ecode.history;
+package com.ecode.fraud.history;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

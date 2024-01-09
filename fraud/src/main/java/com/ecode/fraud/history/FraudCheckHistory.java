@@ -1,4 +1,4 @@
-package com.ecode.history;
+package com.ecode.fraud.history;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
