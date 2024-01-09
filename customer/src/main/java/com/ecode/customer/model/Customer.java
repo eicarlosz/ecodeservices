@@ -1,4 +1,4 @@
-package com.ecode.customer;
+package com.ecode.customer.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

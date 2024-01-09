@@ -1,4 +1,4 @@
-package com.ecode.customer;
+package com.ecode.customer.registration;
 
 public record CustomerRegistrationRequest(
         String firstName,
